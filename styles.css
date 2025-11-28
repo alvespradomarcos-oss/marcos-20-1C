@@ -1,6 +1,5 @@
 body{
 color: rgb(32, 27, 37);
-
 background:pink;
 
 }
@@ -10,7 +9,13 @@ header{
   font-size: 32px;
   color: lightskyblue;
   background: lime;
-
+}
+.chamada{
+    background: orange;
+    padding-bottom: 100px;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
 }
 p{
     text-align:center;
