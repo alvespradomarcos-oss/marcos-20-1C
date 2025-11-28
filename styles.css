@@ -1,6 +1,11 @@
 body{
 color: rgb(32, 27, 37);
+
 background:pink;
+
+}
+header{
+border-bottom: solid 2px rgb(rgb(255, 0, 191));
 
 }
 p{
