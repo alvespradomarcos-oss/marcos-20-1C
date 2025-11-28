@@ -5,11 +5,13 @@ background:pink;
 
 }
 header{
-border-bottom: solid 2px rgb(rgb(255, 0, 191));
-padding: 20px;
+  border-bottom: solid 2px rgb(rgb(255, 0, 191));
+  padding: 20px;
+  font-size: 32px;
+  color: lightskyblue;
 
 }
 p{
     text-align:center;
-    font-size: 20px;
+    font-size: 10px;
 }
